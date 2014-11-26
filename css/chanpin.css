@@ -1,0 +1,150 @@
+* {margin:0;
+	padding:0;
+	font-family: "微软雅黑"；
+}
+.container {
+	position: relative;
+	width: 960px!important;
+}
+.logo {
+	margin-bottom: 25px;
+	margin-top: 25px;
+}
+.backhome {
+	position: absolute;
+	bottom: 20px;
+	right:0px;
+}
+.backhome a {
+	font-family: "微软雅黑";
+	font-size: 20px;
+	color: #3d3d3d;
+}
+.main {
+	border-top: 4px #9e6645 solid;
+	border-bottom: 4px #9e6645 solid;
+}
+.banner {
+	margin-bottom: 30px;
+}
+.side {
+	margin-top: 18px;
+}
+.side ul {
+	margin-bottom: 15px;
+	padding-top: 5px;
+	background-color: #d0a851;
+}
+.side ul li{
+	background-color:#ddd ;
+}
+.side ul li a {
+	color:#873e0d;
+	font-size: 17px;
+}
+.side ul li a:hover {
+	background-color:#d0a851 ;
+}
+.nav-pills > li > a {
+	border-radius: 0!important;
+}
+.dingzhi {
+	background-color:#d0a851 ;
+	padding: 10px 10px 10px 10px;
+}
+.dingzhi img {
+	width: 190px;
+	height: 200px;
+}
+.dingzhi p {
+	padding: 15px 10px;
+	padding-bottom: 0;
+	font-size: 17px;
+	color: #873e0d;
+	text-align: center;
+	font-weight: bold;
+}
+/* 中间内容样式 */
+.content-top {
+	position: relative;
+	border-bottom: 4px #9e6645 solid;
+}
+.content-top h2 {
+	font-size: 17px;
+	color: #873e0d ;
+}
+.s-block {
+	color:#fff;
+	background-color: #a0a0a0;
+	font-size: 15px;
+	padding: 2px;
+	margin-right: 15px;
+}
+.breadcrumb {
+	width: 210px;
+	position: absolute;
+	top: -10px;
+	right: 0;
+	background-color:transparent!important;
+}
+.content-mid {
+	position: relative;
+	margin-bottom: 20px;
+}
+.content-mid img {
+	margin-top: 20px;
+}
+.price {
+	/* float: right; */
+	position: absolute;
+	right: 60px;
+	bottom: 0px;
+}
+.price h2 {
+	font-size: 17px;
+	color:  #80370c ;
+}
+.price p {
+	color: #676566;
+	font-size: 17px;
+}
+.product-desc {
+	position: relative;
+	margin-bottom: 35px;
+}
+.product-desc h2{
+	font-size: 17px;
+	color: #873e0d ;
+}
+.product-desc p{
+	font-size: 17px;
+	color:#676566;
+	line-height: 30px;
+	text-indent: 40px;
+	letter-spacing: 2px;
+}
+.line {
+	position: absolute;
+	top: 9px;
+	left: 73px;
+	width: 600px;
+	display:block;
+	border-bottom: 4px #9e6645 solid;
+}
+.buy-pro {
+	margin-bottom: 30px;
+}
+.buy-pro h2 {
+	font-size: 22px;
+	color:#873e0d ;
+	text-align: center;
+	padding-bottom: 20px;
+}
+.buy-pro p {
+	text-align: center;
+}
+.footer p {
+	padding:5px;
+	margin-bottom: 25px;
+	text-align: center;
+}
